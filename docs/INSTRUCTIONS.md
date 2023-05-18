@@ -22,7 +22,7 @@ Deze opdracht gaat over de [ontwerpfase](#ontwerpen) van de DLC.
 
 Ontwerp verschillende states van de UI-Stack
 
-1. Ga samen rond een tafel staan...
+1. Ga samen rond een tafel ~~staan~~ zitten ...
 2. Neem de User Story die jullie gaan ontwerpen over in de hoek van een A3 papier
 3. Bedenk en schets een Wireflow met alle states van de UI-Stack die je wilt tonen
 4. Schrijf onder elk scherm/state wat een gebruiker doet en wat de interface moet laten zien
